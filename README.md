@@ -81,7 +81,8 @@ Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind 
 ## 🔥 Fun Facts
 - 🛡️ Training to become an **Ethical Hacker (Penetration Tester)**.  
 - 🌱 Currently focused on **Flutter/Dart**.  
-- ⚡ Motto: *“Deep Code Thinking — Purpose First, Code Second.”*  
+- ⚡ Motto: *“Deep Code Thinking — Purpose First, Code Second.”*
+- 🖥️ Quote: *“God Is The Greatest Programmer__Mr.DCT.”*
 
 ---
 
@@ -90,7 +91,7 @@ Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind 
   <a href="https://verla.42web.io"><img src="https://img.shields.io/badge/Portfolio-%2302569B.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/verla-berinyuy-15b1262a5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://youtube.com/@verlaberinyuy?si=a1jAVK0GkQuAdqxp"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="verlaberinyuy8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
