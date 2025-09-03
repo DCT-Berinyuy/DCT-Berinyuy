@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Mr.DCT -->
 
 <p align="center">
-  <img src="banner.png" alt="Mr.DCT Banner" />
+<img width="1024" height="720" border-radius="10px" src="https://github.com/user-attachments/assets/427a3132-5d9e-4d38-848e-446af60286f2" alt="Mr.DCT Banner"/>
 </p>
 
 
@@ -26,6 +26,10 @@ Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+### 🧭 “Currently focused on Flutter/Dart, exploring Svelte/SvelteKit.”
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-000000?style=flat&logo=svelte&logoColor=white)
+
 
 ### 🔧 Tools & Platforms
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -38,23 +42,39 @@ Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind 
 
 ## 🌍 Projects & Impact
 - 🖥️ **[DCT Lab](https://github.com/)** – AI-powered platform for GCE A-Level Computer Science students.  
-- 🎙️ **[FamaVoice](https://github.com/)** – Voice assistant for African farmers in local dialects.  
+- 🎙️ **[FamaVoice](https://mandrillapp.com/track/click/31134266/famavoice.en.uptodown.com?p=eyJzIjoicGRpdE1MNlB6bThwVjR5WHZMOVdrQlNwM3ZvIiwidiI6MiwicCI6IntcInVcIjozMTEzNDI2NixcInZcIjoyLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2ZhbWF2b2ljZS5lbi51cHRvZG93bi5jb21cXFwvYW5kcm9pZFwiLFwiaWRcIjpcImM0M2NiMTNiNmUxZDQ4ZGY5ODFiZTRhZWI3NmE5MmZkXCIsXCJ1cmxfaWRzXCI6W1wiNTFhNGZkYjgwY2JkZGQyYzVkOTUxMTNiYWZmZmM0ZWMwOWU1NTdjY1wiXSxcIm1zZ190c1wiOjE3NTYyMTk2NjB9In0)** – Voice assistant for African farmers in local dialects.  
 - 📚 **[BookBridge](https://github.com/)** – Student-to-student book exchange platform.  
 - ✍️ **Mastering the Mind of Light** – A Christian book on renewing the mind.  
 
 ---
 
 ## 🎬 Content & Community
-- 🎥 **YouTube Channel**: [DCT 0795 Lab](https://youtube.com/@dctlab) — Tech, Ethical Hacking, and Faith content.  
+- 🎥 **YouTube Channel**: [DCT Lab](https://youtube.com/@verlaberinyuy?si=a1jAVK0GkQuAdqxp) — Tech, Ethical Hacking, and Faith content.  
 - 💬 Building **DCT Lab WhatsApp & Discord Communities** for students and innovators.  
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrDCT&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDCT&layout=compact&theme=radical" height="180px"/>
+  <!-- Manual Stats Badges -->
+  <img src="https://img.shields.io/badge/Public%20Repos-19-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-5-yellow?style=for-the-badge&logo=starship" />
+  <img src="https://img.shields.io/badge/Contributions-58-green?style=for-the-badge&logo=github" />
 </p>
+
+<p align="center">
+  <!-- Custom Languages -->
+  <img src="https://img.shields.io/badge/Dart-Primary-blue?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Secondary-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-Core-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Contribution streak (fake card but stylish) -->
+  <img src="https://streak-stats.demolab.com?user=MrDCT&theme=radical&hide_border=true" height="180px" />
+</p>
+
 
 ---
 
@@ -68,9 +88,9 @@ Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind 
 ## 🤝 Let’s Connect
 <p align="center">
   <a href="https://verla.42web.io"><img src="https://img.shields.io/badge/Portfolio-%2302569B.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/verla-ndey"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://youtube.com/@dctlab"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="mailto:verlacode@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/verla-berinyuy-15b1262a5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://youtube.com/@verlaberinyuy?si=a1jAVK0GkQuAdqxp"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="verlaberinyuy8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
