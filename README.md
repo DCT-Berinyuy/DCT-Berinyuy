@@ -54,10 +54,12 @@ Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind 
 
 ---
 
-## 📊 HackaTime & GitHub Stats
+## 📊 HackaTime GitHub Stats
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=19683&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
 
 <p align="center">
   <!-- Manual Stats Badges -->
+  
   <img src="https://img.shields.io/badge/Public%20Repos-19-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Stars-5-yellow?style=for-the-badge&logo=starship" />
   <img src="https://img.shields.io/badge/Contributions-58-green?style=for-the-badge&logo=github" />
@@ -71,9 +73,12 @@ Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind 
 </p>
 
 <p align="center">
- https://github-readme-stats.hackclub.dev/api/wakatime?username=19683&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-</p>
 
+  <!-- Contribution streak (fake card but stylish) -->
+
+  <img src="https://streak-stats.demolab.com?user=MrDCT&theme=radical&hide_border=true" height="180px" />
+  
+</p>
 
 ---
 
