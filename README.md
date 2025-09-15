@@ -54,7 +54,7 @@ Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 HackaTime & GitHub Stats
 
 <p align="center">
   <!-- Manual Stats Badges -->
@@ -71,8 +71,7 @@ Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind 
 </p>
 
 <p align="center">
-  <!-- Contribution streak (fake card but stylish) -->
-  <img src="https://streak-stats.demolab.com?user=MrDCT&theme=radical&hide_border=true" height="180px" />
+ https://github-readme-stats.hackclub.dev/api/wakatime?username=19683&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
 </p>
 
 
