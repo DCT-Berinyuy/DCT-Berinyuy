@@ -26,8 +26,8 @@ Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
-### 🧭 “Currently focused on Flutter/Dart, exploring Svelte/SvelteKit.”
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+### 🧭 “Currently focused on Flutter/Svelte, exploring SvelteKit.”
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-000000?style=flat&logo=svelte&logoColor=white)
 
 
@@ -56,29 +56,6 @@ Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind 
 
 ## 📊 HackaTime GitHub Stats
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=19683&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
-
-<p align="center">
-  <!-- Manual Stats Badges -->
-  
-  <img src="https://img.shields.io/badge/Public%20Repos-19-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Stars-5-yellow?style=for-the-badge&logo=starship" />
-  <img src="https://img.shields.io/badge/Contributions-58-green?style=for-the-badge&logo=github" />
-</p>
-
-<p align="center">
-  <!-- Custom Languages -->
-  <img src="https://img.shields.io/badge/Dart-Primary-blue?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Secondary-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-Core-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
-
-<p align="center">
-
-  <!-- Contribution streak (fake card but stylish) -->
-
-  <img src="https://streak-stats.demolab.com?user=MrDCT&theme=radical&hide_border=true" height="180px" />
-  
-</p>
 
 ---
 
