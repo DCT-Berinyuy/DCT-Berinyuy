@@ -41,20 +41,22 @@ Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind 
 ---
 
 ## 🌍 Projects & Impact
-- 🖥️ **[DCT Lab](https://github.com/)** – AI-powered platform for GCE A-Level Computer Science students.  
+
+- 🖥️ **DCT Lab** – AI-powered platform for GCE A-Level Computer Science students.
 - 🎙️ **[FamaVoice](https://mandrillapp.com/track/click/31134266/famavoice.en.uptodown.com?p=eyJzIjoicGRpdE1MNlB6bThwVjR5WHZMOVdrQlNwM3ZvIiwidiI6MiwicCI6IntcInVcIjozMTEzNDI2NixcInZcIjoyLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2ZhbWF2b2ljZS5lbi51cHRvZG93bi5jb21cXFwvYW5kcm9pZFwiLFwiaWRcIjpcImM0M2NiMTNiNmUxZDQ4ZGY5ODFiZTRhZWI3NmE5MmZkXCIsXCJ1cmxfaWRzXCI6W1wiNTFhNGZkYjgwY2JkZGQyYzVkOTUxMTNiYWZmZmM0ZWMwOWU1NTdjY1wiXSxcIm1zZ190c1wiOjE3NTYyMTk2NjB9In0)** – Voice assistant for African farmers in local dialects.  
-- 📚 **[BookBridge](https://github.com/)** – Student-to-student book exchange platform.  
+- 📚 **BookBridge** – Student-to-student book exchange platform.  
 - ✍️ **Mastering the Mind of Light** – A Christian book on renewing the mind.  
 
 ---
 
 ## 🎬 Content & Community
-- 🎥 **YouTube Channel**: [DCT Lab](https://youtube.com/@verlaberinyuy?si=a1jAVK0GkQuAdqxp) — Tech, Ethical Hacking, and Faith content.  
-- 💬 Building **DCT Lab WhatsApp & Discord Communities** for students and innovators.  
+- 🎥 **YouTube Channel**: [DCT Lab](https://youtube.com/@verlaberinyuy?si=a1jAVK0GkQuAdqxp) — Tech, Ethical Hacking, and Faith content.
+- 💬 [DCT Lab Whatsapp Community](https://chat.whatsapp.com/KvejJotR3TVHUJ2fyBZSPQ) and [Whatsapp channel](https://whatsapp.com/channel/0029VbBx0xZ2ZjCtUUPYQt21)  
+- 💬 Building **DCT Lab Discord Community** for students and innovators.
 
 ---
 
-## 📊 HackaTime GitHub Stats
+## 📊 HackaTime Stats
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=19683&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
 
 ---
@@ -72,7 +74,7 @@ Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind 
   <a href="https://verla.42web.io"><img src="https://img.shields.io/badge/Portfolio-%2302569B.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/verla-berinyuy-15b1262a5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://youtube.com/@verlaberinyuy?si=a1jAVK0GkQuAdqxp"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://mail.google.com/mail"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:verlaberinyuy8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
