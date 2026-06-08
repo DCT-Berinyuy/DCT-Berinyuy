@@ -5,14 +5,14 @@
 </p>
 
 
-<h1 align="center">👋 Hi, I’m <span style="color:#6C63FF">Mr.DCT</span></h1>
-<h3 align="center">🚀 Visionary • Developer • Ethical Hacker • Purpose-Driven Creator</h3>
+<h1 align="center">Hi, I’m <span style="color:#6C63FF">Mr.DCT</span></h1>
+<h3 align="center">Visionary • Developer • Ethical Hacker • Purpose-Driven Creator</h3>
 
 ---
 
-## 🌟 About Me
+## About Me
 I’m **Verla Berinyuy Ndey (Mr.DCT)** — a purpose-driven **Cameroonian student**, **software developer**, and **cybersecurity enthusiast**.  
-Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind of Light* 📖.  
+Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind of Light*.  
 
 💡 I blend **technology, education, and faith** to inspire and empower the next generation.  
 
