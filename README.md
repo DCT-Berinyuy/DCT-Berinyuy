@@ -1,57 +1,62 @@
 <!-- GitHub Profile README for Mr.DCT -->
 
-<p align="center">
-<img width="1024" height="720" border-radius="10px" src="https://github.com/user-attachments/assets/427a3132-5d9e-4d38-848e-446af60286f2" alt="Mr.DCT Banner"/>
-</p>
-
-
-<h1 align="center">Hi, I’m <span style="color:#6C63FF">Mr.DCT</span></h1>
-<h3 align="center">Visionary • Developer • Ethical Hacker • Purpose-Driven Creator</h3>
+<h1 align="center">Hi, I'm <span style="color:#6C63FF">Mr.DCT</span></h1>
+<h3 align="center">Cybersecurity Engineer • Founder @DevSafe • Builder • Purpose-Driven Creator</h3>
 
 ---
 
 ## About Me
-I’m **Verla Berinyuy Ndey (Mr.DCT)** — a purpose-driven **Cameroonian student**, **software developer**, and **cybersecurity enthusiast**.  
-Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind of Light*.  
+I'm **Verla Berinyuy Ndey (Mr.DCT)** — a **Cybersecurity major** at **ICT University, Yaoundé**, **Founder/CEO of DevSafe**, and a purpose-driven Cameroonian builder.
 
-💡 I blend **technology, education, and faith** to inspire and empower the next generation.  
+🛡️ I lead **DevSafe**, a startup delivering software development & cybersecurity services to real clients.
+🎓 Technical Committee Lead for **TCOT (The Campus Of Tomorrow)** hackathon at ICT University.
+🥋 Active in **OWASP Yaoundé** and CTF competitions on **TryHackMe** & **Hack The Box**.
+💡 Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind of Light*.
+
+I blend **technology, education, and faith** to inspire and empower the next generation.
+**Growth over comfort. Purpose over shortcuts. Discipline over hype.**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🚀 Languages & Frameworks
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
-### 🧭 “Currently focused on Flutter/Svelte, exploring SvelteKit.”
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-000000?style=flat&logo=svelte&logoColor=white)
 
+### 🧭 Currently focused on
+**Rust** (systems & backend) — currently **#1 on the Hackatime leaderboard for Cameroon** while documenting the learning journey in public.
 
 ### 🔧 Tools & Platforms
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
 
 ---
 
 ## 🌍 Projects & Impact
 
-- 🖥️ **DCT Lab** – AI-powered platform for GCE A-Level Computer Science students.
-- 🎙️ **[FamaVoice](https://mandrillapp.com/track/click/31134266/famavoice.en.uptodown.com?p=eyJzIjoicGRpdE1MNlB6bThwVjR5WHZMOVdrQlNwM3ZvIiwidiI6MiwicCI6IntcInVcIjozMTEzNDI2NixcInZcIjoyLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2ZhbWF2b2ljZS5lbi51cHRvZG93bi5jb21cXFwvYW5kcm9pZFwiLFwiaWRcIjpcImM0M2NiMTNiNmUxZDQ4ZGY5ODFiZTRhZWI3NmE5MmZkXCIsXCJ1cmxfaWRzXCI6W1wiNTFhNGZkYjgwY2JkZGQyYzVkOTUxMTNiYWZmZmM0ZWMwOWU1NTdjY1wiXSxcIm1zZ190c1wiOjE3NTYyMTk2NjB9In0)** – Voice assistant for African farmers in local dialects.  
-- 📚 **BookBridge** – Student-to-student book exchange platform.  
-- ✍️ **Mastering the Mind of Light** – A Christian book on renewing the mind.  
+- 🛡️ **[DevSafe](https://dev-safe.vercel.app)** – Cybersecurity & software dev startup I founded; building **Eventra** (event ticketing, SvelteKit + Rust/gRPC) for active paying clients.
+- 📚 **[BookBridge](https://book-bridge-three.vercel.app/)** – Student-to-student book exchange platform; shipped **v1.5.0** (escrow payments, offline cache, Social Impact Tracker) and placed **Top 5 at PROMOTE 2026** investor showcase.
+- 💬 **Renndo** – Zero-account temporary group chat platform (SvelteKit + Supabase) — **1st Place, Digital Strike 6H Hackathon**.
+- 🔐 **[CyberSecMonitor](https://github.com/DCT-Berinyuy/CyberSecMonitor)** – AI-powered IDS/IPS/SIEM-Lite system in C++ with anomaly detection and hash-chained logging.
+- 🎙️ **FamaVoice** – Voice assistant for African farmers in local dialects.
+- ✍️ **Mastering the Mind of Light** – A Christian book on renewing the mind, ~12 chapters in progress.
 
 ---
 
 ## 🎬 Content & Community
-- 🎥 **YouTube Channel**: [DCT Lab](https://youtube.com/@verlaberinyuy?si=a1jAVK0GkQuAdqxp) — Tech, Ethical Hacking, and Faith content.
-- 💬 [DCT Lab Whatsapp Community](https://chat.whatsapp.com/KvejJotR3TVHUJ2fyBZSPQ) and [Whatsapp channel](https://whatsapp.com/channel/0029VbBx0xZ2ZjCtUUPYQt21)  
+- 🎥 **YouTube Channel**: [DCT Lab](https://youtube.com/@verlaberinyuy?si=a1jAVK0GkQuAdqxp) — Cybersecurity, GCE A-Level CS, and Faith content.
+- 🥋 Active member of **OWASP Yaoundé**, competing in CTFs on TryHackMe & Hack The Box — **3rd place, Red Shielders Africa Cloud Breach CTF**.
+- 💬 [DCT Lab WhatsApp Community](https://chat.whatsapp.com/KvejJotR3TVHUJ2fyBZSPQ) and [WhatsApp Channel](https://whatsapp.com/channel/0029VbBx0xZ2ZjCtUUPYQt21)
 - 💬 Building **DCT Lab Discord Community** for students and innovators.
 
 ---
@@ -62,16 +67,17 @@ Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind 
 ---
 
 ## 🔥 Fun Facts
-- 🛡️ Training to become an **Ethical Hacker (Penetration Tester)**.  
-- 🌱 Currently focused on **Flutter/Dart**.  
-- ⚡ Motto: *“Deep Code Thinking — Purpose First, Code Second.”*
-- 🖥️ Quote: *“God Is The Greatest Programmer__Mr.DCT.”*
+- 🦀 Currently **#1 on the Hackatime leaderboard for Cameroon** while learning Rust.
+- 🛡️ Founder/CEO of **DevSafe**, leading a real team on real client work.
+- 🎓 Technical Committee Lead for the **TCOT hackathon**.
+- ⚡ Motto: *"Deep Code Thinking — Purpose First, Code Second."*
+- 🖥️ Quote: *"God Is The Greatest Programmer__Mr.DCT."*
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 <p align="center">
-  <a href="https://verla.42web.io"><img src="https://img.shields.io/badge/Portfolio-%2302569B.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linktr.ee/DeepCodeThinking"><img src="https://img.shields.io/badge/Portfolio-%2302569B.svg?&style=for-the-badge&logo=linktree&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/verla-berinyuy-15b1262a5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://youtube.com/@verlaberinyuy?si=a1jAVK0GkQuAdqxp"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="mailto:verlaberinyuy8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -79,4 +85,4 @@ Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind 
 
 ---
 
-<h3 align="center">✨ “Code with purpose. Build with impact. Live with light.” ✨</h3>
+<h3 align="center">✨ "Code with purpose. Build with impact. Live with light." ✨</h3>
