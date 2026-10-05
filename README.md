@@ -1,17 +1,18 @@
 <!-- GitHub Profile README for Mr.DCT -->
 
 <h1 align="center">Hi, I'm <span style="color:#6C63FF">Mr.DCT</span></h1>
-<h3 align="center">Cybersecurity Engineer • Founder @DevSafe • Builder • Purpose-Driven Creator</h3>
+<h3 align="center">Cybersecurity Student • Software Developer • Founder @DevSafe • Purpose-Driven Creator</h3>
 
 ---
 
 ## About Me
-I'm **Verla Berinyuy Ndey (Mr.DCT)** — a **Cybersecurity major** at **ICT University, Yaoundé**, **Founder/CEO of DevSafe**, and a purpose-driven Cameroonian builder.
+I'm **Verla Berinyuy Ndey (Mr.DCT)**, a **Cybersecurity major** at **ICT University, Yaoundé**, **Founder/CEO of DevSafe**, and a purpose-driven Cameroonian builder.
 
-🛡️ I lead **DevSafe**, a startup delivering software development & cybersecurity services to real clients.
-🎓 Technical Committee Lead for **TCOT (The Campus Of Tomorrow)** hackathon at ICT University.
-🥋 Active in **OWASP Yaoundé** and CTF competitions on **TryHackMe** & **Hack The Box**.
+🛡️ I lead **DevSafe**, a student-founded startup delivering software development & cybersecurity services to real clients, and building its own products.
+🎓 **Lead of GDGoC ICT University Yaoundé**, running hands-on workshops (Git & GitHub, Google Antigravity).
+🥋 Active in **OWASP Yaoundé**, the ICT University Cyber Security Club, and CTFs on **TryHackMe** & **Hack The Box**.
 💡 Founder of **DCT Lab**, builder of real MVPs, and author of *Mastering the Mind of Light*.
+🤝 Open to freelance work: mobile apps, web apps, and web application security audits.
 
 I blend **technology, education, and faith** to inspire and empower the next generation.
 **Growth over comfort. Purpose over shortcuts. Discipline over hype.**
@@ -31,12 +32,13 @@ I blend **technology, education, and faith** to inspire and empower the next gen
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-000000?style=flat&logo=svelte&logoColor=white)
 
 ### 🧭 Currently focused on
-**Rust** (systems & backend) — currently **#1 on the Hackatime leaderboard for Cameroon** while documenting the learning journey in public.
+**Rust** (systems & backend), shipping it in production on BookBridge's escrow backend and Eventra, while documenting the journey in public. Also **#1 on the Hackatime leaderboard for Cameroon**.
 
 ### 🔧 Tools & Platforms
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
 
@@ -44,18 +46,36 @@ I blend **technology, education, and faith** to inspire and empower the next gen
 
 ## 🌍 Projects & Impact
 
-- 🛡️ **[DevSafe](https://dev-safe.vercel.app)** – Cybersecurity & software dev startup I founded; building **Eventra** (event ticketing, SvelteKit + Rust/gRPC) for active paying clients.
-- 📚 **[BookBridge](https://book-bridge-three.vercel.app/)** – Student-to-student book exchange platform; shipped **v1.5.0** (escrow payments, offline cache, Social Impact Tracker) and placed **Top 5 at PROMOTE 2026** investor showcase.
-- 💬 **Renndo** – Zero-account temporary group chat platform (SvelteKit + Supabase) — **1st Place, Digital Strike 6H Hackathon**.
-- 🔐 **[CyberSecMonitor](https://github.com/DCT-Berinyuy/CyberSecMonitor)** – AI-powered IDS/IPS/SIEM-Lite system in C++ with anomaly detection and hash-chained logging.
-- 🎙️ **FamaVoice** – Voice assistant for African farmers in local dialects.
-- ✍️ **Mastering the Mind of Light** – A Christian book on renewing the mind, ~12 chapters in progress.
+- 🛡️ **[DevSafe](https://devsafe.cm)**: Student tech startup I founded. Two lanes: client services and owned products. Currently building **Eventra** (event ticketing & paid voting, SvelteKit + Rust/gRPC) for a client.
+- 📚 **[BookBridge](https://book-bridge-three.vercel.app/)**: Student-to-student textbook marketplace for Cameroon. Flutter app with a Rust escrow backend (Mobile Money payments, auto-release, ID-verified users, offline cache). **Top 5 at PROMOTE 2026** and **3rd place at the ICT for Africa Tech Innovation Challenge 2026**. Now in closed testing ahead of Google Play.
+- 💬 **Renndo**: Zero-account temporary group chat (SvelteKit + Supabase). **1st Place, Digital Strike 6H Hackathon**.
+- 🔐 **[CyberSecMonitor](https://github.com/DCT-Berinyuy/CyberSecMonitor)**: AI-powered IDS/IPS/SIEM-Lite in C++ with z-score anomaly detection and hash-chained logging.
+- 🧪 **DCT Lab**: Open-source, offline-first coding + exam-prep platform for Cameroonian GCE Computer Science students (Flutter + Rust). Entering the **Open Agent Hackathon 2026** with it.
+- 💇 **Bella Call**: Beauty services booking marketplace (Flutter + Rust), in development under DevSafe.
+- 🎙️ **FamaVoice**: Voice assistant for African farmers in local dialects.
+- ✍️ **Mastering the Mind of Light**: A Christian book on renewing the mind, ~12 chapters in progress.
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥉 **3rd Place**: ICT for Africa Tech Innovation Challenge 2026 (BookBridge)
+- 🥉 **3rd Place**: Red Shielders Africa "Cloud Breach" CTF
+- 🥇 **1st Place**: Digital Strike 6H Hackathon (Renndo)
+- 🏅 **Top 5**: PROMOTE 2026 investor showcase (BookBridge)
+- 🎤 **MTN YaMo Pitch Season 4**: Selected among 48 regional teams (Centre) out of 400+ applicants
+- 🦀 **Rust Fundamentals**: Coddy
+- 🔐 **Cyber Security 101**: Certificate
+- 🐙 **Hacktoberfest Yaoundé 2026**: Top contributor, most merged PRs
+- 🎓 Technical Committee Lead, **TCOT (The Campus Of Tomorrow)** hackathon, ICT University
 
 ---
 
 ## 🎬 Content & Community
-- 🎥 **YouTube Channel**: [DCT Lab](https://youtube.com/@verlaberinyuy?si=a1jAVK0GkQuAdqxp) — Cybersecurity, GCE A-Level CS, and Faith content.
-- 🥋 Active member of **OWASP Yaoundé**, competing in CTFs on TryHackMe & Hack The Box — **3rd place, Red Shielders Africa Cloud Breach CTF**.
+- 🎥 **YouTube Channel**: [DCT Lab](https://youtube.com/@verlaberinyuy?si=a1jAVK0GkQuAdqxp): Cybersecurity, GCE A-Level CS, and Faith content.
+- 🎵 TikTok **@dct_deepcodethinking**: 1,000+ followers, sharing the tech journey.
+- 🟢 **GDGoC ICT University Yaoundé**: Lead, running workshops and building the chapter team.
+- 🥋 Active member of **OWASP Yaoundé** and the ICT University **Cyber Security Club**.
 - 💬 [DCT Lab WhatsApp Community](https://chat.whatsapp.com/KvejJotR3TVHUJ2fyBZSPQ) and [WhatsApp Channel](https://whatsapp.com/channel/0029VbBx0xZ2ZjCtUUPYQt21)
 - 💬 Building **DCT Lab Discord Community** for students and innovators.
 
@@ -67,9 +87,8 @@ I blend **technology, education, and faith** to inspire and empower the next gen
 ---
 
 ## 🔥 Fun Facts
-- 🦀 Currently **#1 on the Hackatime leaderboard for Cameroon** while learning Rust.
+- 🦀 **#1 on the Hackatime leaderboard for Cameroon** while going deep on Rust.
 - 🛡️ Founder/CEO of **DevSafe**, leading a real team on real client work.
-- 🎓 Technical Committee Lead for the **TCOT hackathon**.
 - ⚡ Motto: *"Deep Code Thinking — Purpose First, Code Second."*
 - 🖥️ Quote: *"God Is The Greatest Programmer__Mr.DCT."*
 
@@ -78,7 +97,7 @@ I blend **technology, education, and faith** to inspire and empower the next gen
 ## 🤝 Let's Connect
 <p align="center">
   <a href="https://linktr.ee/DeepCodeThinking"><img src="https://img.shields.io/badge/Portfolio-%2302569B.svg?&style=for-the-badge&logo=linktree&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/verla-berinyuy-15b1262a5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/verlaberinyuy-ndey-15b1262a5"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://youtube.com/@verlaberinyuy?si=a1jAVK0GkQuAdqxp"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="mailto:verlaberinyuy8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
